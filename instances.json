@@ -1,0 +1,14 @@
+{
+  "instances": [
+    {
+      "id": "alaham-arena",
+      "name": "ALAHAM ARENA",
+      "desc": "Instancia oficial de Alaham Arena.",
+      "pack_version": "1.0",
+      "zip_url": "",
+      "icon_url": "",
+      "mc_version": "1.20.1",
+      "loader": "forge"
+    }
+  ]
+}
