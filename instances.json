@@ -4,8 +4,8 @@
       "id": "alahan-race",
       "name": "Alahan Race",
       "desc": "Instancia oficial de Alahan race.",
-      "pack_version": "1.0",
-      "zip_url": "https://github.com/Entity-Club/remote-instances/releases/download/instance/55.zip",
+      "pack_version": "1.1",
+      "zip_url": "https://github.com/Entity-Club/remote-instances/releases/download/instance/race.zip",
       "icon_url": "https://github.com/Entity-Club/remote-instances/releases/download/instance/1.png",
       "mc_version": "26.3",
       "loader": "fabric"
