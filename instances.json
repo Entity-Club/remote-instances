@@ -1,14 +1,14 @@
 {
   "instances": [
     {
-      "id": "alaham-arena",
-      "name": "ALAHAM ARENA",
+      "id": "alahan-race",
+      "name": "Alahan Race",
       "desc": "Instancia oficial de Alaham Arena.",
       "pack_version": "1.0",
-      "zip_url": "https://github.com/Entity-Club/remote-instances/releases/download/instance/Alaham_Arena.zip",
-      "icon_url": "https://github.com/Entity-Club/remote-instances/releases/download/icon/Logotipo.Agencia.Creativa.Moderno.Geometrico.Azul.y.Negro.6.png",
-      "mc_version": "1.20.1",
-      "loader": "forge"
+      "zip_url": "https://github.com/Entity-Club/remote-instances/releases/download/instance/55.zip",
+      "icon_url": "https://github.com/Entity-Club/remote-instances/releases/download/instance/1.png",
+      "mc_version": "26.3",
+      "loader": "fabric"
     }
   ]
 }
